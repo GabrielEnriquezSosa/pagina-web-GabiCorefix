@@ -1,0 +1,39 @@
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  background-image: url(sirisvisual-Qh6yUFl7P5E-unsplash.jpg); 
+  
+}
+
+.cover {
+  height: 400px;
+  background-image: url(https://images.unsplash.com/photo-1593640408182-31c70c8268f5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=842&q=80);
+  color: white;
+  background-size: cover;
+  background-position: center;
+  background-color: rgba(0, 0, 0, 0.5);
+  background-blend-mode: darken;
+}
+h1 {
+    color: hsl(180, 83%, 40%);
+  }
+  .cover-small{
+    height: 200px;
+    background-blend-mode: normal;
+    
+  }
+  
+  .card {
+    border: 0 !important;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  }
+  
+  .card-title{
+    min-height:3rem;
+    
+  }
+  
+  .card-text{
+    min-height:1rem;
+    
+  }

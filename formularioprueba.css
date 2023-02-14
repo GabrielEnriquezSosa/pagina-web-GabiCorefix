@@ -1,0 +1,26 @@
+#wrapper{
+    font-Family:verdana;
+    margin: 10px auto ;
+    padding: 30px;
+     background: #468cb8; 
+    font-size: 14px;
+    width:100%;
+    max-width:500px;
+     box-sizing: border-box;
+     border-radius: 10px;
+}
+h2{
+    color:white;
+    text-align: center;
+    font-family:verdana;
+    font-size: 2em;
+    margin: e;
+     padding: 0;
+     }
+label {
+    display: block;
+    font-size: 24px;
+     padding: 13px 0;
+    color: #FFF;
+    text-shadow: 1px 1px 1px #666;
+}
